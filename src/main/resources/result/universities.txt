@@ -1,0 +1,1 @@
+id|university_name|creation_Date
